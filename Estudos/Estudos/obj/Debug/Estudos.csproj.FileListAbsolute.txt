@@ -1,0 +1,6 @@
+c:\users\victo\documents\visual studio 2015\Projects\Estudos\Estudos\bin\Debug\Estudos.exe.config
+c:\users\victo\documents\visual studio 2015\Projects\Estudos\Estudos\obj\Debug\Estudos.csprojResolveAssemblyReference.cache
+c:\users\victo\documents\visual studio 2015\Projects\Estudos\Estudos\bin\Debug\Estudos.exe
+c:\users\victo\documents\visual studio 2015\Projects\Estudos\Estudos\bin\Debug\Estudos.pdb
+c:\users\victo\documents\visual studio 2015\Projects\Estudos\Estudos\obj\Debug\Estudos.exe
+c:\users\victo\documents\visual studio 2015\Projects\Estudos\Estudos\obj\Debug\Estudos.pdb
